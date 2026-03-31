@@ -30,7 +30,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── Bot Token ──────────────────────────────────────────────────────────────
-BOT_TOKEN = "ENTER YOUR BOT TOKEN"
+BOT_TOKEN = "8680961032:AAFgleDOOcgFKJdg3xytm989cLkQ2NB7aBc"
 
 # ─── In-Memory Storage ─────────────────────────────────────────────────────
 user_data_store: dict[int, dict] = {}
