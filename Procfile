@@ -1,1 +1,1 @@
-worker: python file7.py
+worker: python bot-1.py
