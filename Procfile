@@ -1,1 +1,1 @@
-python file7.py
+worker: python file7.py
